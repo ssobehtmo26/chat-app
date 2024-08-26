@@ -1,5 +1,7 @@
 # Real Time Chat App
 
+Demo link - https://chat-app-47yn.onrender.com
+
 Some Features:
 
 -   🌟 Tech stack: PERN + TypeScript + Socket.io + Prisma + TailwindCSS
